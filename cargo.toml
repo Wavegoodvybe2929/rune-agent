@@ -1,0 +1,8 @@
+[package]
+name = "rune_agent"
+version = "0.1.0"
+edition = "2021"
+description = "A Rust-based agent engine for executing Runescript logic in React/Tauri workflows."
+
+[dependencies]
+colored = "2.0"

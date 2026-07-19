@@ -1,0 +1,3 @@
+Rune BuildWatch[WATCH src/] 
+  -> RUN(cargo build) 
+  -> OK{LOG("Build Success")} | ERR{LOG("Build Failed")}
