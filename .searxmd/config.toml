@@ -1,2 +1,2 @@
 searxng_url = "http://localhost:8080"
-default_results = 10
+default_results = 15
